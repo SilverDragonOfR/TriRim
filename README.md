@@ -8,7 +8,7 @@ An app integrating AgriTech (rainfall patterns chart), HealthTech (bmi calculato
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/SilverDragonOfR/TriRim.git
 ```
 Open it using Android Studio Code (make sure to have Flutter SDK)
 
